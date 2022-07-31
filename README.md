@@ -1,1 +1,1 @@
-<h1 align='center'>Cheat Sheet</h1>
+<img src="https://raw.githubusercontent.com/heydrdev/cheet-sheet/main/cheat-sheet.gif" align="center"></img>
